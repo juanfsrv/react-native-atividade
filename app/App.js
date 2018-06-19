@@ -9,7 +9,7 @@ export default class App extends React.Component {
   };
 
   render() {
-    const { carregando, condicoesTempo, temperatura } = this.state;
+    const { carregando } = this.state;
     return (
       <View style={styles.container}>
         {/* {carregando ? (
