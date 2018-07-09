@@ -1,1 +1,1 @@
-React Native - Atividade
+React Native - Weather App
